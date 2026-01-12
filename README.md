@@ -45,7 +45,7 @@ shell
 Copier le code
 
 ### Destination Example (auto-generated)
-6 - Drive structure d'entreprise_Toitures L et L inc_Emmanuel Matte/
+6 - Drive structure d'entreprise_/
 ├── P1 - Vision Stratégique
 ├── P2 - Administration
 ...
